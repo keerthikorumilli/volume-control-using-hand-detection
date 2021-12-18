@@ -1,0 +1,9 @@
+import cv2
+import mediapipe as mp
+from math import hypot
+from ctypes import cast, POINTER
+from comtypes import CLSCTX_ALL
+from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
+import numpy 
+
+the python version that i used was 3.9 for this project
